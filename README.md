@@ -6,7 +6,7 @@ Bookshop Management System, BMS involves developing a C++ application integrated
 ## ⚙️ Entity-Relationship Diagram
 ![ERD](https://github.com/AricChong12/Workshop-1/blob/main/Bookshop%20Management%20System%20ERD%20Workshop%201.10.drawio.png)
 
-## Sample Run
+## ✨ Sample Run
 ![Sample](https://github.com/AricChong12/Workshop-1/blob/main/S1.png)
 ![Sample](https://github.com/AricChong12/Workshop-1/blob/main/S2.png)
 ![Sample](https://github.com/AricChong12/Workshop-1/blob/main/S3.png)
